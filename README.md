@@ -71,7 +71,7 @@ Both PCA and LDA reach similar classification accuracy, with LDA using fewer dim
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 .
